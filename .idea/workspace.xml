@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>okhttp</name>
+        <version>4.0.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.siyamed</group-id>
+        <name>android-shape-imageview</name>
+        <version>0.9.3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton</group-id>
+        <name>butterknife-compiler</name>
+        <version>10.1.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.jbundle.util.osgi.wrapped</group-id>
+        <name>org.jbundle.util.osgi.wrapped.org.apache.http.client</name>
+        <version>4.1.2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.ramotion.foldingcell</group-id>
+        <name>folding-cell</name>
+        <version>1.2.3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp</group-id>
+        <name>okhttp</name>
+        <version>2.7.5</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>26.0.0-alpha1</version>
+        <repository>Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.code.gson</group-id>
+        <name>gson</name>
+        <version>2.8.5</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>26.0.0-alpha1</version>
+        <repository>Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>converter-gson</name>
+        <version>2.6.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton</group-id>
+        <name>butterknife</name>
+        <version>10.1.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>logging-interceptor</name>
+        <version>4.0.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>okhttp-urlconnection</name>
+        <version>4.0.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.picasso</group-id>
+        <name>picasso</name>
+        <version>2.71828</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-v4</name>
+        <version>26.0.0-alpha1</version>
+        <repository>Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>retrofit</name>
+        <version>2.6.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>2.3-alpha</version>
+        <repository>Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1561712176116</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dad9149d-c778-4cb3-8f3c-e8670083f1d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Logic_8" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="350" column="56" selection-start-line="350" selection-start-column="56" selection-end-line="350" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#14554#16846#0" expanded="true" />
+                <element signature="e#16845#16846#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/ReadMmsSms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="270" column="53" selection-start-line="270" selection-start-column="53" selection-end-line="270" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_option.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_text.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_token_req_web.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_webview_common.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu_left_drawer.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_call_list.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fragment_main</find>
+      <find>btn</find>
+      <find>국민은</find>
+      <find>@string</find>
+      <find>app_name</find>
+      <find>toolbar</find>
+      <find>API</find>
+      <find>R.id.list</find>
+      <find>colorAccen</find>
+      <find>set</find>
+      <find>계좌내역</find>
+      <find>token</find>
+      <find>r</find>
+      <find>Enable Instant Run to hot swap code/resource changes on deploy</find>
+      <find>userid</find>
+      <find>192</find>
+      <find>status</find>
+      <find>balance_currency</find>
+      <find>JSONTask</find>
+      <find>collectMessage</find>
+      <find>결과값</find>
+      <find>Logic S</find>
+      <find>My A</find>
+      <find>ld_activityScreenTitles</find>
+      <find>array</find>
+      <find>getStatus</find>
+      <find>menu_score</find>
+      <find>toas</find>
+      <find>1378</find>
+      <find>checkgrade</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\GIGABYTE\Desktop\test1\app\src\main\java\and\bfop\kftc\com\useorgsampleapprenewal\restclient</dir>
+      <dir>C:\Users\GIGABYTE\Desktop\test1\app\src\main\java\and\bfop\kftc\com\useorgsampleapprenewal\layout</dir>
+      <dir>C:\Users\GIGABYTE\Desktop\test1\app</dir>
+      <dir>C:\Users\GIGABYTE\Desktop\test1</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/fragment/CenteredTextFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/SlidingRootNavLayout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/SlidingRootNavBuilder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/transform/ElevationTransformation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/transform/ScaleTransformation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/util/HiddenMenuClickConsumer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/util/DrawerListenerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/menu/SimpleItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/MainUserActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SampleActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/menu/DrawerAdapter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/ApiCallMenu.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/shadow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SMSHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/button_yellow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/AuthenticationDialog.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-v21/grad_bg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn1_bg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/btn2_bg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/authnewweb/AuthNewWebPageAuthorize2TabFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/authnewweb/AuthNewWebCommonWebViewFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/util/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/userInfo/SignupActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_authnew_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/authnewweb/AuthNewWebMenuFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_apicall_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/menu_left_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/folding_cell_telecom.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/folding_cell_social_media.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/folding_cell_my_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/folding_cell_call_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/folding_cell_bank_book.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/ReadMmsSms.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_silding.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_password_find.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_mainlogin.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/Mainlogin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/password_find.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="useorgsampleapprenewal" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="useorgsampleapprenewal" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Logic_final" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="23a81cdc2e047ece" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.3.3" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1561033768625" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMSUNG\Desktop\Logic_8\app\src\main\res\drawable" />
+      <recent name="C:\Users\GIGABYTE\Desktop\slidingtest_1\app\src\main\res\drawable" />
+      <recent name="C:\Users\GIGABYTE\Desktop\test1\app\src\main\res\drawable-v21" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout" />
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout.authnewweb" />
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout.userInfo" />
+      <recent name="android.bfop.kftc.com.useorgsampleapprenewal" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Csehyoung\Desktop\Logic_4\app\src\main\res\drawable" />
+      <recent name="C:\Users\user\AndroidStudioProjects\Logic_4\app\src\main\res\drawable-xxhdpi" />
+      <recent name="C:\Users\uk7880\Desktop\Logic_2\app\src\main\res\drawable-xxxhdpi" />
+      <recent name="C:\Users\uk7880\Desktop\Logic_2\app\src\main\res\layout" />
+      <recent name="C:\Users\GIGABYTE\Desktop\Logic\app\src\main\res\drawable-hdpi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.layout" />
+      <recent name="and.bfop.kftc.com.useorgsampleapprenewal.fragment" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad9149d-c778-4cb3-8f3c-e8670083f1d8" name="Default Changelist" comment="" />
+      <created>1559235178039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559235178039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15033557" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.329718" />
+      <window_info anchor="bottom" x="23" y="293" width="1490" height="237" id="Logcat" order="2" sideWeight="0.49932885" weight="0.33617023" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.4852349" visible="true" weight="0.1716312" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" sideWeight="0.49798658" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986577" weight="0.3270925" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49200428" weight="0.3035461" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5147651" side_tool="true" weight="0.32340425" />
+      <window_info anchor="right" id="Preview" order="0" weight="0.34630874" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.3281879" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27181208" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.19830029" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Preview" order="0" weight="0.4923717" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java</url>
+          <line>312</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java</url>
+          <line>314</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java</url>
+          <line>311</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java</url>
+          <line>339</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java</url>
+          <line>342</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/SlidingRootNav.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/SlideGravity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="36" column="74" selection-start-line="36" selection-start-column="74" selection-end-line="36" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/arrays.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/SlidingRootNavBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3458">
+          <caret line="209" column="29" selection-start-line="209" selection-start-column="29" selection-end-line="209" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/membership.PNG" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/membership.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/vip.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/vip.PNG" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/normal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/vvip.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/telecom_title_view.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/out.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/not.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nograde.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_logout_grey600_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_logout_grey600_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_logout_grey600_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_logout_grey600_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_logout_grey600_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_apicall_userinfo.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_apicall_result.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/auth_dialog.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_social_media.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/android/database/Cursor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SMSHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_telecom.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="107" column="58" selection-start-line="107" selection-start-column="58" selection-end-line="107" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_silding.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_password_find.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mainlogin.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="128" column="38" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/password_find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/authnewweb/AuthNewWebMenuFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="95" column="56" selection-start-line="95" selection-start-column="56" selection-end-line="95" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/Mainlogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_my_page.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_bank_book.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/folding_cell_call_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_text.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_token_req_web.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_webview_common.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu_left_drawer.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_option.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/ReadMmsSms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="270" column="53" selection-start-line="270" selection-start-column="53" selection-end-line="270" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/and/bfop/kftc/com/useorgsampleapprenewal/layout/SildingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="350" column="56" selection-start-line="350" selection-start-column="56" selection-end-line="350" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14554#16846#0" expanded="true" />
+            <element signature="e#16845#16846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

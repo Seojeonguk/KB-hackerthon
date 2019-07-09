@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:layout_width="match_parent"
+    android:background="#FFFAFA">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp">
+
+        <ImageView
+            android:id="@+id/imgView_logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/app_logo6" />
+
+        <RelativeLayout
+            android:layout_below="@+id/imgView_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rellay1">
+
+
+            <LinearLayout
+                android:id="@+id/linlay1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_login"
+                android:layout_marginTop="20dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <EditText
+                        android:id="@+id/main_userId"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="#000000"
+                        android:hint="이메일 주소 또는 아이디"
+                        android:textColorHint="#A9A9A9"
+                        android:background="@drawable/btn2_bg"/>
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical">
+
+
+
+                    <EditText
+                        android:id="@+id/main_userPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:textSize="15dp"
+                        android:password="true"
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="#000000"
+                        android:hint="패스워드"
+                        android:textColorHint="#A9A9A9"
+                        android:background="@drawable/btn2_bg"/>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_below="@+id/linlay1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/button_yellow"
+                android:fontFamily="sans-serif-medium"
+                android:paddingLeft="70dp"
+                android:paddingRight="70dp"
+                android:text="로그인"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rellay2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:id="@+id/signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:text="회원가입"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif"
+            android:textColor="#000000"
+            />
+
+        <Button
+            android:id="@+id/pass_find"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:text="비밀번호 찾기"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif"
+            android:textColor="#000000" />
+    </RelativeLayout>
+</RelativeLayout>
+

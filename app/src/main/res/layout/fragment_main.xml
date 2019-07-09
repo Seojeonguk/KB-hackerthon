@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@drawable/skysky7">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+
+        <RelativeLayout
+            android:id="@+id/rellay1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imgView_logo"
+            android:layout_marginTop="40dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/tv_login"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_weight="1"
+                    android:layout_marginBottom="60dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="20dp"
+                        android:text="계좌 등록"
+                        android:textStyle="bold"
+                        android:textAlignment="center"
+                        android:textSize="24dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnAuthNewMenu"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitCenter"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="40dp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/user_certification" />
+
+                </LinearLayout>
+
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="150dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="100dp"
+                    android:background="@color/textColorPrimary" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:layout_marginBottom="60dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="20dp"
+                        android:text="신용 평가"
+                        android:textStyle="bold"
+                        android:textAlignment="center"
+                        android:textSize="24dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnAPICallMenu"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="40dp"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitCenter"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/credit_rating" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/btnSettings"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/setting" />
+</RelativeLayout>
